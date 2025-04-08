@@ -4,7 +4,7 @@ let paginationHtml = document.querySelector(".pagination")
 
 class UserModel{
 
-    limit = 3
+    limit = 2
    
     
 
